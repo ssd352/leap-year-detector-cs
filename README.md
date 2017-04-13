@@ -1,4 +1,2 @@
 # Leap-Year-Detector
-The name describes itself.
-Simply run the exe file in the debug folder.
-Have fun!
+This app tells whether a year is a leap year in Persian and Gregorian calendars.
